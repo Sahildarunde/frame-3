@@ -14,7 +14,7 @@ export default function Home() {
             <Portfolio />
         </div>
         <div>
-          heloo tehere
+          hello tehere
         </div>
       </div>
     </div>
