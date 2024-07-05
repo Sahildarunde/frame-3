@@ -14,7 +14,7 @@ export default function Home() {
             <Portfolio />
         </div>
         <div>
-          hello tehere
+          hello guys, im under water please save me im dying uhhhhhh
         </div>
       </div>
     </div>
